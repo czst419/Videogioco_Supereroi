@@ -54,3 +54,4 @@ Giocatore 1 ha vinto 3 round.
 Giocatore 2 ha vinto 1 round.
 Il Giocatore 1 è il vincitore del torneo!
 
+LINK PRESENTAZIONE: https://www.canva.com/design/DAGdA8iFtUA/epOjnkewXUIRSdtUFBMUrw
